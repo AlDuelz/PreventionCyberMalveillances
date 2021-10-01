@@ -6,6 +6,5 @@
 https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/liste-des-ressources-mises-a-disposition
 https://www.cybermalveillance.gouv.fr/blog
 
-Victime d'une cybermalveillance ? N'hésitez plus : https://www.cybermalveillance.gouv.fr/diagnostic/accueil.
 
 Bonne lecture !
